@@ -1,0 +1,6 @@
+TODO
+- Add windowing functions
+- Create internal FFT implementation?
+- Add other MFCC implementations? (Is it possible to make an open-source implementation of the algorithm that Slaney uses?)
+- Make into library (e.g. DLL) for use in other languages
+- Performance optimizations
