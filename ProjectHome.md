@@ -1,0 +1,1 @@
+A C library for computing Mel Frequency Cepstral Coefficients (MFCC).
